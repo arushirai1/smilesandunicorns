@@ -30,15 +30,30 @@ button {
 	text-align:center;
 
 }
-span {
-	padding:20px;
-}
+
 .tfield {
 	display:block;
 	float:right;
-	margin: 50px;
+	margin: 60px;
 	height:120px;
-	width:120px;
+	width:140px;
+	border-radius:100%;
+	border: 2px solid #199238;
+	text-align:center;
+	padding: 25px;
+	background-color:#199238;
+	color:#fcfdf2;
+	font-size:25px;
+	padding-right: 20px;
+	
+
+}
+.sfield {
+	display:block;
+	float:right;
+	margin: 60px;
+	height:120px;
+	width:140px;
 	border-radius:100%;
 	border: 2px solid #199238;
 	text-align:center;
