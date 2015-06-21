@@ -32,9 +32,17 @@ button {
 
 }
 
-.tfield{
-	padding: 10px;
+.tfield {
+	display: inline-block;
+	margin-left: 5px;
+	height:100px;
+	width:100px;
+	border-radius:100%;
+	border: 2px solid black;
+
 }
+
+
 
 h1 {
 	margin:auto;
@@ -49,32 +57,8 @@ h2 {
 	text-align:right;
 }
 
-input {
-	display:block;
-	margin:auto;
-	color:#329e4e; /*#fcfdf2*/
-	background-color:#fcfdf2;
-	border-radius:30px;
-	padding:20px;
-	padding-right: 20px;
-	padding-left: 20px;
-	padding-down: 20px;
-	width:250px;
-	height:20px;
 
-}
-a:first-child{
-	text-decoration:none;
-}
 
-a:nth-child {
-	display:block;
-	float:left;
-	border-radius=100px;
-	width=20px;
-	height=20px;
-	border: 5px solid gray;
-}
 * {
 	background-color:#008080;
 }
