@@ -1,9 +1,8 @@
-
 #header {
-	z-index: 1;
+	z-index: 2;
 	position: fixed;
-	width: 97.5%;
-	margin-top: -110px;
+	width: 1910px;
+	margin-top: 0px;
 	height: 90px;
 	background-color: #002626;
 	margin-bottom: 10px;
@@ -15,7 +14,7 @@ button {
 	display: block;
 	height: 36px;
 	width: 100px;
-	padding-right: 20px; /* sliding doors padding */
+	padding-right: 20px;
 	text-decoration: none;
 	text-shadow: #ffffff 1px 1px 0;
  	font-weight: bold;
@@ -31,38 +30,29 @@ button {
 	text-align:center;
 
 }
-.tfield{
-	padding: 10px;
-}
 
-h1 {
-
-	margin-top:90px;
-	color:#a1d8e5;
-	font-size:40px;
-	text-align:center;
+body {
+	display:block;
+	margin:auto;
 }
 
 h2 {
-	color:#002626;
-	text-align:center;
-}
-
-input {
 	display:block;
-	margin:auto;
-	color:#329e4e; /*#fcfdf2*/
-	background-color:#fcfdf2;
-	border-radius:30px;
-	padding:20px;
-	padding-right: 20px;
-	padding-left: 20px;
-	padding-down: 20px;
-	width:250px;
-	height:20px;
-
+	float:left;
+	color:#002626;
+	/*text-align:left;*/
 }
+
+
 
 * {
 	background-color:#008080;
+}
+table {
+	width:20%;
+	margin-left:10%;
+	margin-right:10%;
+}
+img.content {
+	width:80%;margin-left:10%;margin-right:80%;margin-top:30px;
 }
