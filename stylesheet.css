@@ -37,7 +37,7 @@ button {
 }
 
 h1 {
-	margin:auto;
+
 	margin-top:400px;
 	color:#a1d8e5;
 	font-size:40px;
@@ -46,7 +46,7 @@ h1 {
 
 h2 {
 	color:#002626;
-	text-align:right;
+	text-align:center;
 }
 
 input {
