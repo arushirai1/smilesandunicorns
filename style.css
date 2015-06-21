@@ -45,9 +45,8 @@ button {
 	color:#fcfdf2;
 	font-size:25px;
 	padding-right: 20px;
-	
-
 }
+
 .sfield {
 	display:block;
 	float:right;
@@ -62,10 +61,10 @@ button {
 	color:#fcfdf2;
 	font-size:25px;
 	padding-right: 20px;
-	
-
 }
-
+a {
+	text-decoration:none;
+}
 
 h1 {
 	margin:auto;
