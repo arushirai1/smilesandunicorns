@@ -1,7 +1,6 @@
 
 #header {
 	z-index: 1;
-	position: fixed;
 	width: 97.5%;
 	margin-top: -390px;
 	height: 90px;
@@ -31,17 +30,26 @@ button {
 	text-align:center;
 
 }
-
+span {
+	padding:20px;
+}
 .tfield {
-	display: inline-block;
-	margin-left: 5px;
-	height:100px;
-	width:100px;
+	display:block;
+	float:right;
+	margin: 50px;
+	height:120px;
+	width:120px;
 	border-radius:100%;
-	border: 2px solid black;
+	border: 2px solid #199238;
+	text-align:center;
+	padding: 25px;
+	background-color:#199238;
+	color:#fcfdf2;
+	font-size:25px;
+	padding-right: 20px;
+	
 
 }
-
 
 
 h1 {
