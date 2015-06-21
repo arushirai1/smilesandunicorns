@@ -1,4 +1,15 @@
 h1 {
-	color:red;
+	margin:auto;
+	color:#a1d8e5;
 	font-size:40px;
+}
+
+p {
+	color:#329e4e; /*#fcfdf2*/
+	background-color:#fcfdf2;
+	border-radius:30px;
+	margin-left:50px;
+}
+* {
+	background-color:#008080;
 }
